@@ -1,2 +1,2 @@
 # Java-Projects
-Here are some projects in Java that I have done in my Classes
+This is a Java implementation of a phone book. It can add contacts, search for contacts, remove contacts, and remove dupicates of contacts
